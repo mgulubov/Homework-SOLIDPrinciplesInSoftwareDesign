@@ -1,0 +1,54 @@
+7/27/2015 08:54:33 PM - Fatal - mscorlib.dll does not respond
+7/27/2015 08:54:33 PM - Critical - No connection string found in App.config
+<log>
+	<date>7/27/2015 08:54:33 PM</date>
+	<level>Fatal</level>
+	<message>mscorlib.dll does not respond</message>
+</log>
+<log>
+	<date>7/27/2015 08:54:33 PM</date>
+	<level>Critical</level>
+	<message>No connection string found in App.config</message>
+</log>
+<log>
+	<date>7/27/2015 08:54:33 PM</date>
+	<level>Error</level>
+	<message>Error parsing request</message>
+</log>
+<log>
+	<date>7/27/2015 08:54:33 PM</date>
+	<level>Critical</level>
+	<message>No connection string found in App.config</message>
+</log>
+<log>
+	<date>7/27/2015 08:54:33 PM</date>
+	<level>Fatal</level>
+	<message>mscorlib.dll does not respond</message>
+</log>
+7/27/2015 08:55:58 PM - Fatal - mscorlib.dll does not respond
+7/27/2015 08:55:58 PM - Critical - No connection string found in App.config
+<log>
+	<date>7/27/2015 08:55:58 PM</date>
+	<level>Fatal</level>
+	<message>mscorlib.dll does not respond</message>
+</log>
+<log>
+	<date>7/27/2015 08:55:58 PM</date>
+	<level>Critical</level>
+	<message>No connection string found in App.config</message>
+</log>
+<log>
+	<date>7/27/2015 08:55:58 PM</date>
+	<level>Error</level>
+	<message>Error parsing request</message>
+</log>
+<log>
+	<date>7/27/2015 08:55:58 PM</date>
+	<level>Critical</level>
+	<message>No connection string found in App.config</message>
+</log>
+<log>
+	<date>7/27/2015 08:55:58 PM</date>
+	<level>Fatal</level>
+	<message>mscorlib.dll does not respond</message>
+</log>

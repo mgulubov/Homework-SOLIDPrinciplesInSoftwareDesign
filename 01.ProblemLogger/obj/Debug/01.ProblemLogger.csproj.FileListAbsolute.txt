@@ -1,0 +1,6 @@
+c:\users\wolfy\documents\visual studio 2013\Projects\Homework-SOLIDPrinciplesInSoftwareDesign\01.ProblemLogger\bin\Debug\01.ProblemLogger.exe.config
+c:\users\wolfy\documents\visual studio 2013\Projects\Homework-SOLIDPrinciplesInSoftwareDesign\01.ProblemLogger\bin\Debug\01.ProblemLogger.exe
+c:\users\wolfy\documents\visual studio 2013\Projects\Homework-SOLIDPrinciplesInSoftwareDesign\01.ProblemLogger\bin\Debug\01.ProblemLogger.pdb
+c:\users\wolfy\documents\visual studio 2013\Projects\Homework-SOLIDPrinciplesInSoftwareDesign\01.ProblemLogger\obj\Debug\01.ProblemLogger.csprojResolveAssemblyReference.cache
+c:\users\wolfy\documents\visual studio 2013\Projects\Homework-SOLIDPrinciplesInSoftwareDesign\01.ProblemLogger\obj\Debug\01.ProblemLogger.exe
+c:\users\wolfy\documents\visual studio 2013\Projects\Homework-SOLIDPrinciplesInSoftwareDesign\01.ProblemLogger\obj\Debug\01.ProblemLogger.pdb
